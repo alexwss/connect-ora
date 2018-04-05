@@ -1,6 +1,6 @@
 import util as u
 
-parametrosEntrada = ["bpm", "bpm", "10.1.1.117/ORCL", "select * from  atendimento where rownum < 100"]
+parametrosEntrada = ["user", "password", "127.0.0.1/ORCL", "select * from  atendimento where rownum < 100"]
 
 try:
     result = u.getCursor(parametrosEntrada)
