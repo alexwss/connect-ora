@@ -1,0 +1,14 @@
+{
+  "name": "connect-ora",
+  "version": "0.1.0",
+  "description": "An Oracle (python-based) connection lib for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Silva, Leonardo Petrauskas",
+  "license": "MIT",
+  "dependencies": {
+    "python-shell": "^0.4.0"
+  }
+}
